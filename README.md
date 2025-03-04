@@ -9,7 +9,7 @@ Realización de ejercicios básicos javascript.
 
 ## Tecnologías y herramientas utilitzadas
 
-- **Javascript
+- **Javascript**
 - **Documentación del temario 2.1**(IT Academy)
 - **[Mozilla FireFox]** https://developer.mozilla.org/
 - **ChatGpt**
