@@ -47,7 +47,7 @@ for (const num of numeros5) {
 //Exercici 6
 
 let noms6 = ['Anna', 'Bernat', 'Clara'];
-var i = 0;
+let i = 0;
 
 for (const nom of noms6) {
     console.log(`${nom} esta en el indice: ${i}`);

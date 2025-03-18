@@ -12,7 +12,6 @@ Realización de ejercicios básicos javascript.
 - **Javascript**
 - **Documentación del temario 2.1**(IT Academy)
 - **[Mozilla FireFox]** https://developer.mozilla.org/
-- **ChatGpt**
 - **[Codepen.io]** https://codepen.io/ (*comprobación del código*)
 
 

@@ -3,13 +3,12 @@
 //Exercici 1
 
 function procesar(nombre, callback) {
-    console.log(`Hola ${nombre}, ¿tienes hambre?`)
-    callback();
+    return callback(nombre);
 }
 
-const comer = ()=> console.log('¡Siempre tengo hambre!')
+const cuadratDelNombre = (nombre)=> nombre * nombre;
 
-procesar("Victor", comer);
+console.log(procesar(5, cuadratDelNombre));
 
 //Exercici 2
 
@@ -26,7 +25,7 @@ console.log(`La suma de los números es: ${calculadora(6,3, suma)}`);
 //Exercici 3
 
 function esperarYSaludar (nombre,callback) {
-    setTimeout(()=> callback(nombre), 3000);
+    setTimeout(()=> callback(nombre), 2000);
 }
 
 const usuario = (nombre) => console.log(`Hola ${nombre}`);

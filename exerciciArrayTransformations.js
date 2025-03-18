@@ -47,7 +47,7 @@ console.log(operaciones(arrayNumeros));
 let array6 = [11, 12, 13, 14];
 
 let upTen = array6.every(num => num > 10);
-let downTen = array6.some(num => num <= 10);
+let downTen = array6.some(num => num > 10);
 
 console.log(`Todos los números son mayores de diez: ${upTen}`);
 console.log(`Hay número menores o igual a diez: ${downTen}`);

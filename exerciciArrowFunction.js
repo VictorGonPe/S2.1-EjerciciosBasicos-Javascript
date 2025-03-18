@@ -11,9 +11,6 @@ console.log(suma);
 
 const randomNumber = () => Math.floor(Math.random() * 100) + 1;
 
-for (let i = 0; i < 10; i++) { // comprobación
-  console.log(randomNumber());
-}
 
 //Exercici 3
 
