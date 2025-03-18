@@ -18,7 +18,7 @@ Completion of basic Javascript exercises.
 ## Requeriments
 
 - **Modern browser**: Chrome, Firefox, Safari, Edge.
-- **Code editor**: VS Code, Sublime Text. (Editar o visualizar el código) 
+- **Code editor**: VS Code, Sublime Text. (Edit or view the code) 
 - **Basics Javascript Knowledge.**
 
 ## Installation
