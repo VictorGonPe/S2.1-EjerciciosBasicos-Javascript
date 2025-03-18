@@ -1,29 +1,29 @@
-# S2.1-EjerciciosBasicos-Javascript
+# S2.1-Basic-Exercises-Javascript
 
-## Descripción del sprint
+## Sprint Description
 
-Realización de ejercicios básicos javascript. 
+Completion of basic Javascript exercises. 
 
-- **Arrow Functions, Operador ternario, Callbacks, Array transformaciones, etc.**
+- **Arrow Functions, Ternary Operator, Callbacks, Array transformations, etc.**
 
 
-## Tecnologías y herramientas utilitzadas
+## Technologies and Tools Used
 
 - **Javascript**
-- **Documentación del temario 2.1**(IT Academy)
+- **Module 2.1 Documentation**(IT Academy)
 - **[Mozilla FireFox]** https://developer.mozilla.org/
-- **[Codepen.io]** https://codepen.io/ (*comprobación del código*)
+- **[Codepen.io]** https://codepen.io/ (*code verification*)
 
 
-## Requisitos
+## Requeriments
 
-- **Navegador moderno**: Chrome, Firefox, Safari, Edge.
-- **Editor de código**: VS Code, Sublime Text. (Editar o visualizar el código) 
-- **Conocimientos básicos Javascript.**
+- **Modern browser**: Chrome, Firefox, Safari, Edge.
+- **Code editor**: VS Code, Sublime Text. (Editar o visualizar el código) 
+- **Basics Javascript Knowledge.**
 
-## Instalación
+## Installation
 
-1. Clonar el proyecto o descargarlo.
+1. Clone the project or download it.
 
 ```bash
 git clone https://github.com/VictorGonPe/S1.1-HTML-CSS.git
@@ -32,11 +32,11 @@ git clone https://github.com/VictorGonPe/S1.1-HTML-CSS.git
 cd S1.1-HTML-CSS
 ```
 
-2. Abrir el proyecto en el editor de código.
+2. Open the project in a code editor.
 
-## Ejecución
+## Execution
 
-**Comprobar el funcionamient**: Copiar las partes del código en codepen o directamente en el inspector sobre una web en blanco.
+**Verify functionality**: Copy parts of the code into CodePen or directly into the browser's developer console on a blank webpage. For some exercises, it may be necessary to invoke the functions or add a console.log to view the results.
 
 
 
